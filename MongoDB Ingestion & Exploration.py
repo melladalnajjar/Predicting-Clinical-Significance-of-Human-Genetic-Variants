@@ -1,3 +1,4 @@
+#########Phase 1 — MongoDB Ingestion & Exploration
 import csv
 from pymongo import MongoClient
 
